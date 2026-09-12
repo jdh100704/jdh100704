@@ -21,4 +21,6 @@ Desarrollador Web Full Stack enfocado en construir aplicaciones modernas, rápid
 
 ---
 
-📫 **Contacto:** jdh100704@gmail.com | [Linkedin](www.linkedin.com/in/jorgedominguezhernandez)
+📫 **Contacto:** 
+                Email: jdh100704@gmail.com
+                Linkedin: www.linkedin.com/in/jorgedominguezhernandez
