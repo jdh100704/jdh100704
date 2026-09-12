@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jorge Domínguez
 
-<!--
-**jdh100704/jdh100704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web Full Stack enfocado en construir aplicaciones modernas, rápidas y escalables utilizando el ecosistema de **React**, **Next.js** y **Supabase**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+
+- ⚡ **[FlowTask](https://flowtask-jdh.vercel.app)** | Gestor Kanban con Drag & Drop en tiempo real ([Repo](https://github.com/jdh100704/flowtask))
+- 🛒 **[Velora](https://tienda-velora.vercel.app)** | E-commerce completo con carrito y gestión de pedidos ([Repo](https://github.com/jdh100704/tienda-velora))
+- 💈 **Barbería App** | Sistema web de reserva de citas en línea ([Repo](https://github.com/jdh100704/barberia-app))
+- 📱 **Spendly** | Aplicación móvil de finanzas personales desarrollada en Android ([Repo](https://github.com/jdh100704/Spendly))
+
+---
+
+### 🛠️ Stack Tecnológico
+
+- **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, Kotlin (Jetpack Compose)
+- **Backend & DB:** Supabase, PostgreSQL
+- **Herramientas & Despliegue:** Git, GitHub, Vercel
+
+---
+
+📫 **Contacto:** [Tu Email de Contacto] | [Tu LinkedIn si tienes]
